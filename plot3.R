@@ -1,5 +1,5 @@
 Create_Household_Power_DataFrame <- function(HP_file = "household_power_consumption.txt") {
-##  This read the household_power_comsumption file and converts the columns to the appropriate data types.
+##  This reads the household_power_comsumption file and converts the columns to the appropriate data types.
 ##  The date and time values are converted to a time variable and the file is filtered to those data
 ##  between 2007-02-01 and 2007-02-02 as required.
 ##
